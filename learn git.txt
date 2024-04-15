@@ -1,0 +1,18 @@
+package org.phone;
+
+public class Learngit{
+
+
+private void userName(){
+system.print.ln("vasu");
+}
+
+public static voidmain(string[] args){
+
+
+
+Learngit a = new Learngit();
+a.userName();
+
+}
+}
