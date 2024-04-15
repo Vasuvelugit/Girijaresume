@@ -18,3 +18,6 @@ a.userName();
 }
 public class Learngithud{
 }
+private void password(){
+system.print.ln("1234")
+}
